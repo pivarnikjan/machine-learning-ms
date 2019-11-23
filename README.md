@@ -43,7 +43,7 @@ You can find a detailed [project rubric, here](https://review.udacity.com/#!/rub
 * Create Flask app in Container
 * Run via kubectl
 
-Requirements:
+Tracking progress: <br>
 [X] All files are submitted. <br>
 [X] .circleci folder is included. <br>
 [X] Extend app.py to log a prediction value. <br>
