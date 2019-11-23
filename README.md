@@ -47,11 +47,11 @@ Tracking progress: <br>
 [X] All files are submitted. <br>
 [X] .circleci folder is included. <br>
 [X] Extend app.py to log a prediction value. <br>
-[ ] The project shows the proper use of documentation. <br>
-[ ] The project passes linting via a Makefile. <br>
+[X] The project shows the proper use of documentation. <br>
+[X] The project passes linting via a Makefile. <br>
 [X] Dockerfile is complete. <br>
 [X] Dockerfile passes linting via a Makefile. <br>
-[ ] Log output is saved in docker_out.txt. <br>
+[X] Log output is saved in docker_out.txt. <br>
 [X] run_docker.sh is complete. <br>
 [ ] Docker image is uploaded to docker via upload_docker.sh. <br>
 [ ] run_kubernetes.sh is complete. <br>
