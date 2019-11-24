@@ -155,7 +155,7 @@ Run `make install` to install the necessary dependencies
 ### Linting
 - add W1202 to pylint Ignore for f-strings
 
-Run `make lint` to lint dockerfile and app.py
+Run `make lint` to lint dockerfile and app.py <br>
 Run `upload_docker.sh` for pushing your docker image to docker hub
 
 ### Running `app.py`
